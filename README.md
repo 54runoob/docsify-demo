@@ -1,2 +1,3 @@
 # docsify-demo
-文档化
+
+docsify 配置项网址：https://docsify.js.org/#/zh-cn/configuration
